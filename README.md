@@ -1,4 +1,5 @@
 # comic-weekly
 - where you can give and find fun
-----
-maybe this repo never get any commit
+---
+inspired by Scott Mccloud
+![infinite-canvas](https://www.imghost.net/ib/5baqhOlj39h3JUW_1710229301.png)
